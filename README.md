@@ -129,6 +129,3 @@ If this project helped you learn Python or solved a problem, please give it a ‚≠
 **Made with ‚è∞ for Python learners everywhere**
 
 *"Time is what we want most, but what we use worst." - William Penn*
-
-*Start with 10 lines, end with a full GUI app. That's the journey of learning Python!*
-```
